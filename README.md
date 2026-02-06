@@ -46,6 +46,7 @@ pandas, numpy, seaborn, matplotlib, scipy.stats
 Este proyecto sigue un flujo estructurado de análisis correlacional dividido en 6 etapas principales:
 
 | Etapa	 | Descripción | Resultado Esperado |
+|---------|-------------|-------------------|
 | 1. Exploración Inicial | Cargar y explorar el dataset | Entender estructura, columnas, tipos y métricas clave |
 | 2. Preparación de Datos	| Preparar datos y documentar supuestos |	Datos limpios y listos para análisis.
 Variables relevantes definidas y reglas documentadas |
