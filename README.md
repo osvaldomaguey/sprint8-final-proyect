@@ -1,24 +1,24 @@
-📊 Análisis Correlacional NovaRetail+ 2024
+# 📊 Análisis Correlacional NovaRetail+ 2024
 
-🎯 Descripción del Proyecto
+## 🎯 Descripción del Proyecto
 
 Análisis correlacional completo del comportamiento de clientes de NovaRetail+, una plataforma de comercio electrónico líder en Latinoamérica. Este proyecto investiga qué factores del comportamiento del cliente están más fuertemente asociados con el ingreso anual generado, proporcionando insights accionables para el equipo de Crecimiento y Retención.
 
-🔍 Pregunta de Investigación
+## 🔍 Pregunta de Investigación
 ¿Qué factores del comportamiento del cliente están más fuertemente asociados con el ingreso anual generado?
 
-📋 Objetivos
+## 📋 Objetivos
 Integrar múltiples técnicas de correlación en un análisis unificado
 Identificar relaciones significativas entre variables de comportamiento e ingresos
 Detectar correlaciones engañosas y evitar interpretaciones causales incorrectas
 Convertir hallazgos estadísticos en recomendaciones de negocio accionables
 Documentar limitaciones y próximos pasos para futuras investigaciones
 
-🗂️ Dataset
+## 🗂️ Dataset
 Fuente: novaretail_comportamiento_clientes_2024.csv
 Tamaño: 15,000 registros de clientes
 
-**Variables Analizadas**
+## **Variables Analizadas**
 | Variable | Tipo | Descripción |
 |---------|-------------|-------------------|
 | ingreso_anual	| Numérica | Ingresos generados por cliente |
@@ -31,7 +31,7 @@ Tamaño: 15,000 registros de clientes
 | tipo_dispositivo	| Categórica	| móvil / escritorio / tablet |
 | region	Categórica | norte | / sur / oeste / este |
 
-🛠️ Metodología
+## 🛠️ Metodología
 Técnicas de Correlación Aplicadas
 Correlación de Pearson
 Variables numéricas lineales
@@ -42,7 +42,7 @@ Variables categóricas
 Herramientas Utilizadas
 pandas, numpy, seaborn, matplotlib, scipy.stats
 
-🔄 Etapas del Análisis
+## 🔄 Etapas del Análisis
 Este proyecto sigue un flujo estructurado de análisis correlacional dividido en 6 etapas principales:
 
 | Etapa	 | Descripción | Resultado Esperado |
@@ -57,7 +57,7 @@ Variables relevantes definidas y reglas documentadas |
 | 5. Interpretación | Analizar resultados de forma responsable	| Evidencia → interpretación → implicaciones de negocio |
 | 6. Conclusiones | Documentar limitaciones y próximos pasos | Claridad sobre qué NO se puede concluir + recomendaciones futuras |
  
-🎯 Enfoque del Análisis
+### 🎯 Enfoque del Análisis
 Naturaleza: Correlacional y exploratorio (no causal)
 Variable objetivo: ingreso_anual (ingresos generados por cliente)
 Tipos de relaciones analizadas:
@@ -65,7 +65,7 @@ Numéricas (lineales y monotónicas)
 Binarias vs. numéricas
 Categóricas
 
-📊 Resultado Final
+### 📊 Resultado Final
 Un reporte de análisis de correlación que combina:
 
 ✅ Evidencia visual (gráficos y heatmaps)
