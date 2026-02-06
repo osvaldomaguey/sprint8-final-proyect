@@ -53,3 +53,5 @@ pandas, numpy, seaborn, matplotlib, scipy.stats
   - Visitas mensuales: -0.0127
   - Ingresos anuales: 0.0931
 - Implicación: Necesidad urgente de reestructurar programa premium
+
+- https://colab.research.google.com/drive/19XPcNyRU4dZ6NQXEODzPa_fqd49ZdQ4q?usp=sharing
